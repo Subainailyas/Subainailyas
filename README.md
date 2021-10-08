@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subaina ilyas</h1>
-<h3 align="center">student at Balochistan University Quetta Pakistan</h3>
+<h3 align="center">student of compuuter science at Balochistan University Quetta Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subainailyas&label=Profile%20views&color=0e75b6&style=flat" alt="subainailyas" /> </p>
 
